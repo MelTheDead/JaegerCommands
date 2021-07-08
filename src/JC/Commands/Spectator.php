@@ -15,7 +15,7 @@ class Spectator extends Command implements PluginIdentifiableCommand {
 
     public function __construct(Main $main) {
         parent::__construct("gm3", "Set Gamemode 3 a player");
-        $this->setPermission("spectator.cmd");
+        $this->setPermission("gm3.cmd");
         $this->plugin = $main;
     }
 
