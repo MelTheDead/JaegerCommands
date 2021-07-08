@@ -15,7 +15,7 @@ class Creative extends Command implements PluginIdentifiableCommand {
 
     public function __construct(Main $main) {
         parent::__construct("gm1", "Set Gamemode 1 a player");
-        $this->setPermission("heal.cmd");
+        $this->setPermission("gm1.cmd");
         $this->plugin = $main;
     }
 
