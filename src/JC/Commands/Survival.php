@@ -15,7 +15,7 @@ class Survival extends Command implements PluginIdentifiableCommand {
 
     public function __construct(Main $main) {
         parent::__construct("gm0", "Set Gamemode 0 a player");
-        $this->setPermission("heal.cmd");
+        $this->setPermission("gm0.cmd");
         $this->plugin = $main;
     }
 
