@@ -1,0 +1,2 @@
+# JaegerCommands
+improved "CMD" plugin
