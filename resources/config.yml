@@ -1,0 +1,7 @@
+HealMessage: "§L§cjaegerCommands:§r Ti sei curato con successo"
+FoodMessage: "§L§cjaegerCommands:§r Ti sei recenerato la fame"
+SurvivalMessage: "§L§cjaegerCommands:§r ti sei messo in gamemode 0"
+CreativeMessage: "§L§cjaegerCommands:§r ti sei messo in gamemode 1"
+SpectatorMessage: "§L§cjaegerCommands:§r ti sei messo in gamemode 3"
+DayMessage: "§L§cjaegerCommands:§r hai messo giorno"
+NightMessage: "§L§cjaegerCommands:§r Hai messo notte"

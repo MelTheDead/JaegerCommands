@@ -1,0 +1,8 @@
+name: JaegerComands
+main: JC\Main
+version: 1.0
+api: 3.0.0
+author: JaegerNess
+commands:
+  jeagercomands:
+    description: Use this command of Help
